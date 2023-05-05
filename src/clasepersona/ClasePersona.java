@@ -91,6 +91,10 @@ public class ClasePersona {
             } catch (IllegalArgumentException e) {
                 System.out.println("ERROR. Procesando siguiente persona");
             }
+            
+            
+            
+            System.out.println("EHERCICIO 2");
 
         }
 
