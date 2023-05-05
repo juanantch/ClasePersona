@@ -94,7 +94,7 @@ public class ClasePersona {
             
             
             
-            System.out.println("EHERCICIO 3");
+            System.out.println("EHERCICIO 4");
 
         }
 

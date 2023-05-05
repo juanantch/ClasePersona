@@ -92,7 +92,7 @@ public class Persona {
     public void setFechaNacimiento(String fechaNacimiento) {
         this.fechaNacimiento = generarFecha(fechaNacimiento);
     }
-    public String EJERCICIO3() {
+    public String EJERCICIO4() {
         return nombre;
     }
 }
